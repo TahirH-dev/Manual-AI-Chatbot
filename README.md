@@ -1,4 +1,4 @@
-# Manual AI Chatbot 🤖
+# Manual Basic AI Chatbot 🤖
 
 A set of small Python scripts that demonstrate different ways to automate chat replies using local LLMs (Ollama) and Google Gemini (Generative AI).  
 This repo includes both **manual** helper scripts (which only produce the AI reply text) and **automation** scripts that use `PyAutoGUI` to detect/copy the latest chat message and send replies automatically.
