@@ -22,8 +22,7 @@ Manual-AI-Chatbot/
 - **`01_get_cursur.py`**  
   A tiny helper to show mouse coordinates on your screen. Use it to find correct click/drag coordinates for the auto bots (PyAutoGUI uses coordinates to copy/paste).
 
-- **`03_gemini_bot.py` (manual)**  
-  - **`03_gemini_bot.py` (manual)**  
+- **`03_gemini_bot.py` (manual)**   
   Sends the copied message to Google Gemini (Generative AI), receives the model's response, and pastes the response into the active text field via the keyboard buffer — you then manually press Enter to send it in your chat app (WhatsApp, Telegram, etc.).
 
 - **`03_ollama_bot.py` (manual)**  
